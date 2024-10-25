@@ -3,7 +3,7 @@
   <img src="images/main.jpg"
       alt="Finder jpg"
       width="500"
-      height="350"
+      height="100"
       style="float: left; margin-right: 10px;">
 </p>
 
@@ -55,8 +55,8 @@ This download retrieves the required files or updates them if one or more machin
 + -h) Show help panel
 
 - Show possible combinations:
-+ -k) @@ Show combinations between parameters
-+ -l) @@ Show combinations for parameter -p
++ -k) Show combinations between parameters
++ -l) Show combinations for parameter -p
 ```
 
 ## Credits

@@ -3,7 +3,6 @@
   <img src="images/main.jpg"
       alt="Finder jpg"
       width="500"
-      height="100"
       style="float: left; margin-right: 10px;">
 </p>
 

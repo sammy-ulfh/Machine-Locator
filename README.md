@@ -8,9 +8,9 @@
 
 
 
-<p align=center>
-A tool for locating machines that have already been resolved by [S4vitar](https://s4vitar.github.io/).
-</p>
+
+Machine Locator is a tool for locating machines that have already been resolved by [S4vitar](https://s4vitar.github.io/).
+
 
 This project consider the machines of the platforms:
 - [HackTheBox](https://www.hackthebox.com/)

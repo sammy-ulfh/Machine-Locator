@@ -2,19 +2,22 @@
 <p align="center">
   <img src="images/main.jpg"
       alt="Finder jpg"
-      width="300"
+      width="500"
+      height="350"
       style="float: left; margin-right: 10px;">
 </p>
 
 
+
+<p align=center>
 A tool for locating machines that have already been resolved by [S4vitar](https://s4vitar.github.io/).
+</p>
 
 This project consider the machines of the platforms:
 - [HackTheBox](https://www.hackthebox.com/)
 - [VulnHub](https://www.vulnhub.com/)
-```diff
-+ Other
-```
+- [Other]()
+
 "Other" contains machines that were created outside the platform, right now it only contains [one machine](https://drive.google.com/file/d/1bxoTy0arnh4-yRFEcEozTeHc932X28Hu/view) created by S4vitar/Wh1tedrvg0n.
 
 With this tool you can perform searches across any platform using: machine information, employing one or multiple parameters.
@@ -27,7 +30,7 @@ With this tool you can perform searches across any platform using: machine infor
 ## Installation
 1. Clone the repository:
 ```bash
-  git clone https://github.com/yourusername/yourproject.git ## PENDNG
+  git clone https://github.com/sammy-ulfh/Machine-Locator.git
 ```
 
 ## Application
@@ -40,20 +43,20 @@ This download retrieves the required files or updates them if one or more machin
 2. Second, you can search by parameters:
 ```diff
 - Indivual:
-@@ -u) @@ Download or update required files
-@@ -m) @@ Search by name
-@@ -i) @@ Search by IP
-@@ -o) @@ Search by os
-@@ -d) @@ Search by difficulty
-@@ -s) @@ Search by skill
-@@ -c) @@ Search by certification
-@@ -y) @@ Get youtube link where the machine is solve
-@@ -p) @@ Get machines by platform
-@@ -h) @@ Show help panel
++ -u) Download or update required files
++ -m) Search by name
++ -i) Search by IP
++ -o) Search by os
++ -d) Search by difficulty
++ -s) Search by skill
++ -c) Search by certification
++ -y) Get youtube link where the machine is solve
++ -p) Get machines by platform
++ -h) Show help panel
 
 - Show possible combinations:
-@@ -k) @@ Show combinations between parameters
-@@ -l) @@ Show combinations for parameter -p
++ -k) @@ Show combinations between parameters
++ -l) @@ Show combinations for parameter -p
 ```
 
 ## Credits
